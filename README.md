@@ -5,5 +5,5 @@
 <p>
   Digital Highway, created with JavaScript. Intended use for music video. <br>
   Will update on how this works when I have figured it out. <br>
-  Very interesting.
+  Very interesting - Does not run automatically. Needs to be rendered.
  </p>
